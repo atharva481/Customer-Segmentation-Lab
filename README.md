@@ -379,12 +379,5 @@ For questions, issues, or suggestions, please create an issue in the GitHub repo
 
 ---
 
-## 👥 Authors
-
-- Original Project: [tieugem1997](https://github.com/tieugem1997)
-- Enhanced Version: Continuous improvements and modern features added
-
----
-
 **Last Updated**: April 2026
 **Version**: 2.0 (Enhanced)
