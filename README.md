@@ -41,7 +41,6 @@ Welcome to the **Customer Segmentation Lab**, an advanced interactive applicatio
 - **Advanced EDA** - Deep exploratory data analysis with advanced visualizations
 - **Cluster Profiling** - Detailed analysis of customer segments
 - **Improved Error Handling** - Fixed DataFrame type issues
-- **Better UI/UX** - Modern dark sidebar with custom CSS styling
 
 ---
 
